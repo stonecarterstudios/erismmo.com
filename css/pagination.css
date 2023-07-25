@@ -1,0 +1,34 @@
+/* Custom CSS for Pagination */
+
+/* Remove default list styles */
+.pagination.pagination-default {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Horizontal list layout for the pagination */
+.pagination.pagination-default li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/* Styling for pagination links */
+.pagination.pagination-default a {
+  text-decoration: none;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #ccc;
+}
+
+.pagination.pagination-default a:hover {
+  background-color: #f2ba52;
+  color: #333;
+}
+
+/* Custom styles for the active page link */
+.pagination.pagination-default .active a {
+  background-color: #f2ba52;
+  color: #333;
+}
