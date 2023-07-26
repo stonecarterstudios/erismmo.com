@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Eris Sandbox PvP MMO</title>
-    <link>https://stonecarterstudios.github.io/erismmo.com/categories/</link>
+    <link>https://erismmo.com/categories/</link>
     <description>Recent content in Categories on Eris Sandbox PvP MMO</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://stonecarterstudios.github.io/erismmo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://erismmo.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
