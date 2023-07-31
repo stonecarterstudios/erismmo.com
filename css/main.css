@@ -1885,10 +1885,12 @@ input, select, textarea {
 		}
 
 		#banner .video-container {
-			position: relative;
+			position: absolute;
 			z-index: 1;
-			margin: 1.5em 0 0em 0;
+			margin: 1.5em auto 0em auto;
+			left: 0;
 			right: 0;
+			width: 960px;
 		}
 
 		#banner .video-wrapper {
@@ -2238,12 +2240,16 @@ input, select, textarea {
 					width: 100%;
 					margin: 0 0 2em 0;
 				}
+			
+				#banner .video-container {
+					width: 720px;
+				}
 
-			#banner .video-wrapper {
-				width: 720px;
-				height: 405px;
-	    		object-fit: cover;
-			}
+				#banner .video-wrapper {
+					width: 720px;
+					height: 405px;
+					object-fit: cover;
+				}
 
 	}
 
@@ -2509,9 +2515,13 @@ input, select, textarea {
 					display: none;
 				}
 
+			#banner .video-container {
+				width: 600px;
+			}
+			
 			#banner .video-wrapper {
-				width: 520px;
-   				height: 292.5px;
+				width: 600px;
+   				height: 337.5px;
     			object-fit: cover;
 			}
 
