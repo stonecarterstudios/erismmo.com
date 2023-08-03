@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eris多人線上遊戲</title>
+    <link>https://erismmo.com/zh/</link>
+    <description>Recent content on Eris多人線上遊戲</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://erismmo.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Screenshots from Alpha Build</title>
+      <link>https://erismmo.com/zh/blog/screenshots/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://erismmo.com/zh/blog/screenshots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Brand New Sandbox PvP MMORPG</title>
+      <link>https://erismmo.com/zh/blog/introduction/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://erismmo.com/zh/blog/introduction/</guid>
+      <description>Eris is a dark fantasy Massively Multiplayer Online Role Playing Game (MMORPG) with an emphasis on massive sieges. The game-play focuses on political alliances, feudal conquest and open world Player vs Player (PvP).
+Wars are entirely player-driven, and notable player characters could find themselves with much fame and influence over the game. Players have the freedom to play as they like – the leader of an independent merchant city state, a thief preying on the unaware, an assassin who kills for the thrill, a valiant knight who protects his homeland, a mercenary company captain who fights for money or a warlord set on world domination.</description>
+    </item>
+    
+  </channel>
+</rss>
